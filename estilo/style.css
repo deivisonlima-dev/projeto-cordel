@@ -100,3 +100,38 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+@media only screen and (max-width: 320px) {
+    footer {
+        width: 303px; }
+
+        footer {
+            padding: 8px;
+        }
+
+        p { 
+            font-size: 9px;
+        }
+
+        a {
+            font-size: 9px;
+        }
+    }
+
+@media only screen and (max-width: 320px) {
+    header {
+        width: 303px; }
+
+        header h1 {
+            padding-top: 30px;
+        }
+
+        header p {
+            padding-bottom: 30px;
+        }
+    }
+
+@media only screen and (max-width: 320px) {
+    section#img01 {
+            background-position: center; }
+    }
