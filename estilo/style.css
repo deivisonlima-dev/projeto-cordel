@@ -101,9 +101,9 @@ footer {
     padding: 10px;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 375px) {
     footer {
-        width: 303px; }
+        width: 358px; }
 
         footer {
             padding: 8px;
@@ -118,9 +118,9 @@ footer {
         }
     }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 375px) {
     header {
-        width: 303px; }
+        width: 358px; }
 
         header h1 {
             padding-top: 30px;
@@ -131,7 +131,7 @@ footer {
         }
     }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 375px) {
     section#img01 {
             background-position: center; }
     }
