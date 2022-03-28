@@ -100,23 +100,3 @@ footer {
     text-align: center;
     padding: 10px;
 }
-
-@media only screen and (max-width: 500px) {
-    footer {
-        width: 483px; }
-
-        footer {
-            padding: 8px; 
-        }
-
-        footer > p { 
-            font-size: 12px;
-        }
-
-        footer > a {
-            font-size: 12px;
-        }
-
-        section#img01 {
-            background-position: center; }
-    }
